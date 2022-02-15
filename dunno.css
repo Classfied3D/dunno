@@ -1,0 +1,77 @@
+
+img {
+  transition: transform .7s ease-in-out;
+}
+img:hover {
+  transform: rotate(360deg);
+}
+
+p {
+  transition: transform .7s ease-in-out;
+}
+p:hover {
+  transform: rotate(360deg);
+}
+
+button {
+  transition: transform .7s ease-in-out;
+}
+button:hover {
+  transform: rotate(360deg);
+}
+
+h1 {
+  transition: transform .7s ease-in-out;
+}
+h1:hover {
+  transform: rotate(360deg);
+}
+
+h2 {
+  transition: transform .7s ease-in-out;
+}
+h2:hover {
+  transform: rotate(360deg);
+}
+
+a {
+  transition: transform .7s ease-in-out;
+}
+a:hover {
+  transform: rotate(360deg);
+}
+
+icon {
+  transition: transform .7s ease-in-out;
+}
+icon:hover {
+  transform: rotate(360deg);
+}
+
+input {
+  transition: transform .7s ease-in-out;
+}
+input:hover {
+  transform: rotate(360deg);
+}
+
+div {
+  transition: transform .7s ease-in-out;
+}
+div:hover {
+  transform: rotate(360deg);
+}
+
+h3 {
+  transition: transform .7s ease-in-out;
+}
+h3:hover {
+  transform: rotate(360deg);
+}
+
+blockquote {
+  transition: transform .7s ease-in-out;
+}
+blockquote:hover {
+  transform: rotate(360deg);
+}
